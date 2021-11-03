@@ -1,0 +1,36 @@
+.canvas {
+	width: 800px;
+	height: 1000px;
+	background: white;
+}
+.t {
+
+	width:1350px; 
+	height:1200px;
+	border:1px solid black ;
+	margin:0 25% 0 25%;
+	background: #F8F8FF;
+}
+.img-1 {
+position: relative;
+left:10px;
+bottom: -5px;
+}
+h1 { 
+text-align: center;
+ }
+ .img1 {
+position: relative;
+left:35px;
+ }
+
+ .img2 {
+ 	position: relative;
+ 	left: 75px;
+
+ }
+
+ .img3 {
+ 	position: relative;
+ 	left: 110px;
+ }
